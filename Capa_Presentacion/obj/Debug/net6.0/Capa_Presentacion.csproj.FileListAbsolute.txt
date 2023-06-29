@@ -1,0 +1,40 @@
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\bin\Debug\net6.0\Capa_Presentacion.exe
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\bin\Debug\net6.0\Capa_Presentacion.deps.json
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\bin\Debug\net6.0\Capa_Presentacion.runtimeconfig.json
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\bin\Debug\net6.0\Capa_Presentacion.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\bin\Debug\net6.0\Capa_Presentacion.pdb
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\bin\Debug\net6.0\Capa_Logica.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\bin\Debug\net6.0\Capa_Modelo.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\bin\Debug\net6.0\Capa_Logica.pdb
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\bin\Debug\net6.0\Capa_Modelo.pdb
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.AssemblyInfoInputs.cache
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.AssemblyInfo.cs
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.csproj.CopyComplete
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\obj\Debug\net6.0\refint\Capa_Presentacion.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.pdb
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.genruntimeconfig.cache
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Presentacion\obj\Debug\net6.0\ref\Capa_Presentacion.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\bin\Debug\net6.0\Capa_Presentacion.exe
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\bin\Debug\net6.0\Capa_Presentacion.deps.json
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\bin\Debug\net6.0\Capa_Presentacion.runtimeconfig.json
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\bin\Debug\net6.0\Capa_Presentacion.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\bin\Debug\net6.0\Capa_Presentacion.pdb
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\bin\Debug\net6.0\Capa_Logica.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\bin\Debug\net6.0\Capa_Modelo.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\bin\Debug\net6.0\Capa_Logica.pdb
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\bin\Debug\net6.0\Capa_Modelo.pdb
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.AssemblyInfoInputs.cache
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.AssemblyInfo.cs
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.csproj.CopyComplete
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\obj\Debug\net6.0\refint\Capa_Presentacion.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.pdb
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\obj\Debug\net6.0\Capa_Presentacion.genruntimeconfig.cache
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Presentacion\obj\Debug\net6.0\ref\Capa_Presentacion.dll

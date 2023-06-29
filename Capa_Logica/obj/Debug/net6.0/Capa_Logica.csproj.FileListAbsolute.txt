@@ -1,0 +1,30 @@
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\bin\Debug\net6.0\Capa_Logica.deps.json
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\bin\Debug\net6.0\Capa_Logica.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\bin\Debug\net6.0\Capa_Logica.pdb
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\bin\Debug\net6.0\Capa_Modelo.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\bin\Debug\net6.0\Capa_Modelo.pdb
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\obj\Debug\net6.0\Capa_Logica.csproj.AssemblyReference.cache
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\obj\Debug\net6.0\Capa_Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\obj\Debug\net6.0\Capa_Logica.AssemblyInfoInputs.cache
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\obj\Debug\net6.0\Capa_Logica.AssemblyInfo.cs
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\obj\Debug\net6.0\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\obj\Debug\net6.0\Capa_Logica.csproj.CopyComplete
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\obj\Debug\net6.0\Capa_Logica.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\obj\Debug\net6.0\refint\Capa_Logica.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\obj\Debug\net6.0\Capa_Logica.pdb
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Logica\obj\Debug\net6.0\ref\Capa_Logica.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\bin\Debug\net6.0\Capa_Logica.deps.json
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\bin\Debug\net6.0\Capa_Logica.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\bin\Debug\net6.0\Capa_Logica.pdb
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\bin\Debug\net6.0\Capa_Modelo.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\bin\Debug\net6.0\Capa_Modelo.pdb
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\obj\Debug\net6.0\Capa_Logica.csproj.AssemblyReference.cache
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\obj\Debug\net6.0\Capa_Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\obj\Debug\net6.0\Capa_Logica.AssemblyInfoInputs.cache
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\obj\Debug\net6.0\Capa_Logica.AssemblyInfo.cs
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\obj\Debug\net6.0\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\obj\Debug\net6.0\Capa_Logica.csproj.CopyComplete
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\obj\Debug\net6.0\Capa_Logica.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\obj\Debug\net6.0\refint\Capa_Logica.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\obj\Debug\net6.0\Capa_Logica.pdb
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Logica\obj\Debug\net6.0\ref\Capa_Logica.dll

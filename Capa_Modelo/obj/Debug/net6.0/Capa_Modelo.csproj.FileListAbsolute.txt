@@ -1,0 +1,24 @@
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\bin\Debug\net6.0\Capa_Modelo.deps.json
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\bin\Debug\net6.0\Capa_Modelo.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\bin\Debug\net6.0\Capa_Modelo.pdb
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.csproj.AssemblyReference.cache
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.AssemblyInfoInputs.cache
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.AssemblyInfo.cs
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\obj\Debug\net6.0\refint\Capa_Modelo.dll
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.pdb
+C:\Users\Julio Amador\Source\Repos\Programacion_3_Plantilla_1_Examen\Examen_1_Programacion_3\Capa_Modelo\obj\Debug\net6.0\ref\Capa_Modelo.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\bin\Debug\net6.0\Capa_Modelo.deps.json
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\bin\Debug\net6.0\Capa_Modelo.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\bin\Debug\net6.0\Capa_Modelo.pdb
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.csproj.AssemblyReference.cache
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.AssemblyInfoInputs.cache
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.AssemblyInfo.cs
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\obj\Debug\net6.0\refint\Capa_Modelo.dll
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.pdb
+C:\Users\Julio Amador\Downloads\progra 3\Nueva carpeta\Capa_Modelo\obj\Debug\net6.0\ref\Capa_Modelo.dll
